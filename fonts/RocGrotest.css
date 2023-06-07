@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk';
+    src: url('FONTSPRINGDEMO-RocGroteskHeavyRegular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk';
+    src: url('FONTSPRINGDEMO-RocGroteskBlackRegular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk';
+    src: url('FONTSPRINGDEMO-RocGroteskBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk';
+    src: url('FONTSPRINGDEMO-RocGroteskMediumRegular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk';
+    src: url('FONTSPRINGDEMO-RocGroteskThinRegular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk';
+    src: url('FONTSPRINGDEMO-RocGroteskRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk';
+    src: url('FONTSPRINGDEMO-RocGroteskLightRegular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

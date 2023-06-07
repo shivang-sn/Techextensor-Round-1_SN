@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Gibson';
+    src: url('Gibson-RegularItalic.woff2') format('woff2'),
+        url('Gibson-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gibson';
+    src: url('Gibson-BoldItalic.woff2') format('woff2'),
+        url('Gibson-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gibson';
+    src: url('Gibson-Bold.woff2') format('woff2'),
+        url('Gibson-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gibson';
+    src: url('Gibson-Regular.woff2') format('woff2'),
+        url('Gibson-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
